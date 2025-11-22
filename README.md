@@ -1,2 +1,28 @@
-# Light-of-Seneca
-# DARKest Planner - Commercial SaaS  **Proprietary Software** © 2025 Heorhi Kartavenko. All Rights Reserved.  This source code is confidential and proprietary. Unauthorized copying,  modification, distribution, or use is strictly prohibited.
+```markdown
+# 🕯️ Light of Seneca
+
+Стоический планировщик на основе мудрости Сенеки. Темная тема, минимализм, фокус на продуктивности.
+
+## 🚀 Быстрый старт
+```bash
+git clone [repo]
+npm install
+npm run dev
+```
+
+## 📦 Основные модули
+- Задачи с приоритетами
+- Трекер привычек  
+- Pomodoro таймер
+- Стоический дневник
+- Система уровней (XP)
+
+## 🏛 Философия
+Приложение построено на принципах Сенеки:
+- Управление временем
+- Развитие добродетелей
+- Ежедневная рефлексия
+
+## ⚖️ Лицензия
+Проприетарное ПО © 2025 Картавенко Георгий. Все права защищены.
+```
